@@ -1,0 +1,3 @@
+[submodule "nodejs/twitchfe"]
+	path = nodejs/twitchfe
+	url = https://github.com/icemanyk/Twitch2.0-frontend.git
